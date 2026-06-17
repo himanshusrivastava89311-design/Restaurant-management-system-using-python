@@ -34,3 +34,6 @@ Generate itemized bill
 Store order history
 Create GUI using Tkinter
 Connect with a database for menu management
+
+<img width="1167" height="764" alt="image" src="https://github.com/user-attachments/assets/83b85d5d-0e9e-48ea-b924-9c59cf1b5caa" />
+
