@@ -36,4 +36,6 @@ Create GUI using Tkinter
 Connect with a database for menu management
 
 <img width="1167" height="764" alt="image" src="https://github.com/user-attachments/assets/83b85d5d-0e9e-48ea-b924-9c59cf1b5caa" />
+<img width="774" height="834" alt="image" src="https://github.com/user-attachments/assets/eec7e993-ece6-441b-8635-f8559f080cda" />
+
 
